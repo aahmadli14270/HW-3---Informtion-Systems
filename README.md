@@ -1,2 +1,2 @@
-# HW-3---Informtion-Systems
-This is our project. 
+# HW-3---Information-Systems
+This is our homework project. 
